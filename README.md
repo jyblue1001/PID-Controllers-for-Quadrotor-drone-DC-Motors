@@ -1,6 +1,6 @@
 # PID-Controllers-for-Quadrotor-drone-DC-Motors
 
-## A simple proeject written in Verilog using Modelsim. Performs PID calculations based on the RPM difference of DC Motors.
+## A simple project written in Verilog using ModelSim. Performs PID calculations based on the RPM difference of DC Motors.
 This was a three week project for my "Hardware Programming" course. I implemented the PID control algorithm from another course, "Automatic Control".
 
 ## What is included in the Repository
