@@ -19,7 +19,7 @@ Additionally, this project primarily aims to observe the output of the DC motor 
 therefore, the it will not extensively cover the aerodynamic perspective.
 
 
-## These are some key features worth marking!
+## These are some key features worth noticing!
 
 * Controlled by the user input, the MODE_FSM module passes the corresponding RPM difference values to the instantiated subordinate module.
 * The robust PID calculation performance despite the input data's non-liear rate of change.
