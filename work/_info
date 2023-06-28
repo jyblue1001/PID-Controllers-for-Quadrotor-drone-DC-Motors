@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/verilog/project
+vMODE_FSM
+Z0 !s110 1686925988
+!i10b 1
+!s100 fo<Wmk;kl=9Kmj<@5Wg_13
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IScncfZIM52=OW>lQQRK<m3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/verilog/HardwareProgrammingProject
+w1686820051
+8C:/verilog/HardwareProgrammingProject/MODE_FSM.v
+FC:/verilog/HardwareProgrammingProject/MODE_FSM.v
+!i122 30
+L0 1 287
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1686925988.000000
+!s107 C:/verilog/HardwareProgrammingProject/MODE_FSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/HardwareProgrammingProject/MODE_FSM.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@m@o@d@e_@f@s@m
+vPID
+R0
+!i10b 1
+!s100 G^5HWD_3I8`NYgM1ZVUM]0
+R1
+IODjP6PO[NCAHWjFj4n_[z0
+R2
+R3
+w1686816133
+8C:/verilog/HardwareProgrammingProject/PID.v
+FC:/verilog/HardwareProgrammingProject/PID.v
+!i122 29
+L0 2 43
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/verilog/HardwareProgrammingProject/PID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/HardwareProgrammingProject/PID.v|
+!i113 1
+R6
+R7
+n@p@i@d
+vtb_MODE_FSM
+!s110 1686816286
+!i10b 1
+!s100 B`OKaXmi^>KQAlmfUhANZ2
+R1
+I6BPaCSb52IimfBHjKl`n_2
+R2
+R3
+w1686816283
+Z8 8C:\verilog\HardwareProgrammingProject\TESTBENCH.v
+Z9 FC:\verilog\HardwareProgrammingProject\TESTBENCH.v
+!i122 5
+L0 3 197
+R4
+r1
+!s85 0
+31
+!s108 1686816286.000000
+!s107 C:\verilog\HardwareProgrammingProject\TESTBENCH.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:\verilog\HardwareProgrammingProject\TESTBENCH.v|
+!i113 1
+R6
+R7
+ntb_@m@o@d@e_@f@s@m
+vTESTBENCH
+R0
+!i10b 1
+!s100 6PHBPWVAF?kb?gG2o1PQT2
+R1
+I[HC4d3SLmHT5ZT5GoRH4<3
+R2
+R3
+w1686925947
+R8
+R9
+!i122 31
+L0 3 206
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:\verilog\HardwareProgrammingProject\TESTBENCH.v|
+R10
+!i113 1
+R6
+R7
+n@t@e@s@t@b@e@n@c@h
