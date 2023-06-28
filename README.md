@@ -7,7 +7,7 @@ This was a three week project for my "Hardware Programming" course. I implemente
 
 * Design Results (Verilog)
 * Design layout, simulations, testbench data (MATLAB) (to be uploaded...)
-* Design Report in Word files (to be uploaded...)
+* Design Report (PDF) (to be uploaded...)
 
 
 ## Design Assumptions
